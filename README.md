@@ -6,6 +6,7 @@
 <br>
 [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=F7681B)]()
 <br>
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7681B)]()
 
 
 <!--
