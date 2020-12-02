@@ -1,6 +1,6 @@
 ### Hello 👋
 
-### Skills:
+## Skills:
 
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=F7681B)]()
 <br>
