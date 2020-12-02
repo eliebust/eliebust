@@ -2,7 +2,7 @@
 
 ## Skills:
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=css3&logoColor=white&labelColor=F7681B)]()
+[![Android](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=F7681B)]()
 <br>
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
