@@ -4,7 +4,7 @@
 
 ### Desarrollo Web: [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=F7681B)]()      [![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=0061D5)]()      [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFF000)]()
 
-### Desarrollo Android: [![Android](https://img.shields.io/badge/Android_Studio-101010?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]() [![Android_Studio](https://img.shields.io/badge/Android_Studio-101010?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()  [![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()   [![Firebase](https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
+### Desarrollo Android: [![Android_Studio](https://img.shields.io/badge/Android_Studio-101010?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()  [![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()   [![Firebase](https://img.shields.io/badge/Firebase-101010?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
 
 
 
