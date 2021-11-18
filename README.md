@@ -11,7 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliecer_Bustamante-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/eliebust04)
 
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=bertamatu&show_icons=true&count_private=true" width="300" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertamatu&layout=compact&show_icons=true/" width="auto" height="118"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bertamatu&show_icons=true&count_private=true" width="400" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertamatu&layout=compact&show_icons=true/" width="auto" height="158"/>
 
 <!--
 **eliebust/eliebust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
